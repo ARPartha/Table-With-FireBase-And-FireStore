@@ -1,0 +1,38 @@
+thead input {
+    width: 100%;
+}
+
+thead {
+    width: 100%;
+}
+
+tbody {
+    width: 100%;
+}
+
+input {
+    width: 50px;
+}
+
+th {
+    width: 30px;
+    padding: 2px;
+    margin: 15px;
+    border: 1px solid black;
+}
+
+tr {
+    width: 50px;
+    padding: 2px;
+    margin: 15px;
+    border: 1px solid black;
+}
+
+td {
+    width: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 2px;
+    margin: 15px;
+    border: 1px solid black;
+}
